@@ -2,7 +2,6 @@
 
 This project was made by **Ankit Kapoor (2018A7PS0230U)** and **Arshiyan Ulde (2018A7PS0133U)**
 
-A google doc file with the project code can be found **[here](https://docs.google.com/document/d/1z1q6Oh120H23QrNxgsySyrqLpOPkwLUC/edit?usp=sharing&ouid=117806499075101418555&rtpof=true&sd=true)**
 
 This is a movie recommender system that works on the basis of the **KNN (K Nearest Neighbors)** algorithm. The database used has close to 10,000 movies and 110,000 user reviews which are all tabulated to generate a recommendation list for any given movie based on the given movie.
 
@@ -26,9 +25,10 @@ Contents of the repository:
 **Included in all the .md files is a link to a google docs file with the same information available in a .docx format**
 
 This project was done under the supervision of
-Dr. Siddhaling Urolagin,
-PhD, Post-Doc, (Machine Learning),
-dr.siddhaling@gmail.com,
+Dr. Siddhaling Urolagin,\
+PhD, Post-Doc, (Machine Learning),\
+dr.siddhaling@gmail.com,\
 www.github.com/siddhaling
+
 www.researchreader.com
 
